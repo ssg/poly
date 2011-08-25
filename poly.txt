@@ -1,0 +1,76 @@
+.topic NoContext=0
+ûu anda yaptçßçnçz iülemle ilgili yardçm bilgisi yok.
+.end
+
+.topic Contents=1
+Genel konu baülçklarç:
+
+  {Kullançlan tuülar:keymask}
+
+.end
+
+.topic PVCHesabi
+.end
+
+.topic TaksitTakibi
+.end
+
+.topic KayitliIslemler
+.end
+
+.topic FiatAyarlari
+.end
+
+.topic MaliyetAyarlari
+.end
+
+.topic OlcuAyarlari
+.end
+
+.topic keymask
+Kullançlan tuülar:
+
+ F1
+Bulundußunuz konumla ilgili yardçm bilgisini ekrana getirir.
+
+ Esc veya Alt-F4
+Ekranda bulunan pencereyi kapatçr.
+
+ Tab ve Shift-Tab
+Giriü alanlarç ve butonlar arasçnda gezinmenizi saßlar.
+.end
+
+.topic HelpOnHelp
+POLY, herhangi bir anda F1 tuüuna bastçßçnçzda veya "Yardçm" butonu Åzerine
+klikledißinizde înÅnÅze o anda yaptçßçnçz iülemle ilgili aáçklayçcç bilgi
+getirir. Bu kçsçmdan áçkmak iáin Esc'e basmançz yeterlidir.
+.end
+
+.topic MainMenu
+Bu kçsçmda programçn ana bîlÅmlerine ulaüçrsçnçz. Eßer klavye kullançyorsançz
+yukarç ve aüaßç ok tuülarçyla seámek istedißiniz seáeneßin Åzerine gelip
+Enter'a basmançz o kçsma girmek iáin yeterlidir. Buradaki butonlarçn
+iülevleri üîyledir:
+
+ "PVC Hesabç"
+Programçn PVC hesap kçsmçnç áalçütçrçr.
+
+ "Taksit takibi"
+Taksit takibini áalçütçrçr.
+
+ "Kayçtlç iülemler"
+Daha înceden kaydedilmiü maliyet hesaplarçnçn aylçk dîkÅmlerini
+inceleyebileceßiniz kçsmç áalçütçrçr.
+
+ "Fiat ayarlarç"
+Vadeli ve peüin satçü fiatlarçnçn ayarlandçßç ekranç getirir.
+
+ "Maliyet ayarlarç"
+Maliyet fiat ve oran ayarlarçnç yaptçßçnçz ekranç getirir.
+
+ "ôláÅ ayarlarç"
+Kesim hesaplarçnda kullançlan îláÅlerin ayarlandçßç ekranç getirir.
+
+ "Programdan áçkçü"
+Programdan áçkmançzç saßlar.
+.end
