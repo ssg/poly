@@ -1,19 +1,18 @@
 Poly 
 ====
 Poly was a commercial software I developed back in 1997 for PVC Window
-Manufacturers in Turkey. The software allows you to select one of the
+Manufacturers in Turkey. The software allowed you to select one of the
 window layouts and provide metrics to calculate all the materials 
 needed up to number of screws needed and the total cost. 
 
-It runs on DOS and uses FatalVision so compiling it might not be a
-straightforward task. FV sources could be found at 
-http://github.com/ssg/xvision.
+It runs on DOS and uses [FatalVision](http://github.com/ssg/xvision), 
+so, compiling it might not be a straightforward task.
 
 It still contains keydisk protection code.
 
-OBJ files are for easter egg I provided with the software. It contains
-typed text by me with realtime keystroke simulation along with some
-images I drew.
+OBJ files are for [the easter egg](https://twitter.com/0ffffffffh/status/1304945186963939333?s=20&t=DZvIUE7ka4CPGBjT1GD9gg) 
+I provided with the software. It contains typed text by me with realtime 
+keystroke simulation along with some images I drew.
 
 BSD License
 ===========
