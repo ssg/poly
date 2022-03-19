@@ -5,6 +5,8 @@ Manufacturers in Turkey. The software allowed you to select one of the
 window layouts and provide metrics to calculate all the materials 
 needed up to number of screws needed and the total cost. 
 
+<img width="1444" alt="screenshot" src="https://user-images.githubusercontent.com/241217/159136308-001aa39f-4294-4085-a725-f4c2f251afaa.png">
+
 It runs on DOS and uses [FatalVision](http://github.com/ssg/xvision), 
 so, compiling it might not be a straightforward task.
 
