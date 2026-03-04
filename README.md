@@ -12,9 +12,11 @@ so, compiling it might not be a straightforward task.
 
 It still contains keydisk protection code.
 
-OBJ files are for [the easter egg](https://twitter.com/0ffffffffh/status/1304945186963939333?s=20&t=DZvIUE7ka4CPGBjT1GD9gg) 
-I provided with the software. It contains typed text by me with realtime 
-keystroke simulation along with some images I drew.
+OBJ files are for the [the easter egg](https://twitter.com/0ffffffffh/status/1304945186963939333?s=20&t=DZvIUE7ka4CPGBjT1GD9gg) 
+I coded. It contains typed text by me with realtime 
+keystroke simulation (really, I wrote to a tool to capture the files) along with some images I drew using a mouse. Here is a video of the easter egg:
+
+https://github.com/user-attachments/assets/e719669b-1730-4244-803f-d4aca77a796b
 
 BSD License
 ===========
